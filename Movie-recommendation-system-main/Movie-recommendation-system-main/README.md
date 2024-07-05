@@ -12,7 +12,7 @@ This project is a movie recommendation system implemented in Python, utilizing J
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone 
+    git clone https://github.com/ISHAN-SINGH-KARNAVAT/Movie-recommendation-system
 2. Navigate to the project directory:
     ```bash
     cd Movie-recommendation-system
