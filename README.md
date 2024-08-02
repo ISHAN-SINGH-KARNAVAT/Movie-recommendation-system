@@ -40,5 +40,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Commit your changes (`git commit -am 'Add new feature'`)
 5. Push to the branch (`git push origin feature`)
 6. Create a new Pull Request
+![Screenshot (13)](https://github.com/user-attachments/assets/4dfce714-53c9-4c49-b29d-c2dfb4af0764)
 
 
